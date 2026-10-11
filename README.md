@@ -7,4 +7,4 @@ This is done by using loops and arrays to find the square root of a given limit.
 # Example
 
 For example, say that n is 30,
-First we square root 30, we want to find all the prime factors up until √30. We then want to find their multiples up until 30. Starting from 2, we can find all the multiples of 2 up until 30 (4, 6, 8, 10 ...) and mark them as "False" because they are not prime. Then we move onto the next prime factor that is not marked, which would be 3, and we would find all the multiples of 3 until 30 ( 3, 6, 9, 12 ..) and also mark them as "False". This continues until √30 is reached because anything past that would make it redundant.
+First we square root 30, we want to find all the prime factors up until √30. We then want to find their multiples up until 30. Starting from 2, we can find all the multiples of 2 up until 30 (4, 6, 8, 10 ...) and mark them as "False" because they are not prime. Then we move onto the next prime factor that is not marked, which would be 3, and we would find all the multiples of 3 until 30 ( 3, 6, 9, 12 ...) and also mark them as "False". This continues until √30 is reached because anything past that would make it redundant.
