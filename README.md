@@ -1,4 +1,4 @@
-# Sieve-Prime-Number-Algorithm-
+# Sieve-Prime-Number-Algorithm
 
 This is an implementation of an algorithm made by the Greek mathematician known as Sieve of Eratosthenes. It finds all the prime numbers within a certain range by eliminating all the multiples before it's square root. 
 
